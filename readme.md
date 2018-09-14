@@ -4,7 +4,7 @@ Approved by the Spring team, this repo is a fork of the [spring-projects/spring-
 It allows the Spring community to maintain a Petclinic version with a plain old **Spring Framework configuration**
 and with a **3-layer architecture** (i.e. presentation --> service --> repository).
 The "canonical" implementation is now based on Spring Boot, Thymeleaf and [aggregate-oriented domain]([https://github.com/spring-projects/spring-petclinic/pull/200). 
-
+ 
 
 ## Understanding the Spring Petclinic application with a few diagrams
 [See the presentation here](http://fr.slideshare.net/AntoineRey/spring-framework-petclinic-sample-application) (2017 update)
